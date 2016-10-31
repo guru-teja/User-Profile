@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>RowDetails</key>
+	<array>
+		<dict>
+			<key>Label</key>
+			<string>Name</string>
+			<key>Type</key>
+			<string>KName</string>
+			<key>KeyName</key>
+			<string>Name</string>
+			<key>CanEdit</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Label</key>
+			<string>Carrier</string>
+			<key>Type</key>
+			<string>KCarrier</string>
+			<key>KeyName</key>
+			<string>Carrier</string>
+			<key>CanEdit</key>
+			<false/>
+		</dict>
+		<dict>
+			<key>Label</key>
+			<string>Contact</string>
+			<key>Type</key>
+			<integer>0</integer>
+			<key>KeyName</key>
+			<string>KContact</string>
+			<key>CanEdit</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>Label</key>
+			<string>TWIC</string>
+			<key>Type</key>
+			<real>0</real>
+			<key>KeyName</key>
+			<string>TWIC</string>
+			<key>CanEdit</key>
+			<false/>
+		</dict>
+	</array>
+</dict>
+</plist>
